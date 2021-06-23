@@ -12,9 +12,9 @@
     "password": "mantis"
   },
   "james": {
-    "host": "192.168.1.71",
+    "host": "autotest.mail",
     "port": 4555,
-    "username": "root",
-    "password": "root"
+    "username": "admin",
+    "password": "password"
   }
 }
